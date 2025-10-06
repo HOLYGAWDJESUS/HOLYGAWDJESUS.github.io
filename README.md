@@ -4,6 +4,10 @@ This repository hosts the **static website** for Hart MathCounts. The site is bu
 
 > **Note on repo name:** The repository is named `holygawdjesus.github.io` to **force absolute paths** in the website. This ensures all links and assets resolve correctly regardless of where the pages are accessed.
 
+## Website
+
+Check out the live website here: [https://hartmathcounts.org/](https://www.hartmathcounts.org/)
+
 ## Contact
 
 If you have questions, feedback, or want to get in touch:
